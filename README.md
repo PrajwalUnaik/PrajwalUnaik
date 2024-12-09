@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi 👋, I'm Prajwal U 
 
-I’m currently working on Learning SwiftUi<br> I’m looking to collaborate on Swift projects<br>
+I’m currently working on Learning Data analyisis <br> I’m looking to collaborate on Pythonor Data analytic projects<br>
 <br>Let's code, design, and create together! 
 
 
